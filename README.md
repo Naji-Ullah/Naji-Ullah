@@ -11,7 +11,7 @@ Currently working on impactful projects including Canadian government initiative
 
 - **Frontend Development** -JavaScript (ES6+), React.js, Next.js 14, TypeScript, Redux, HTML5, CSS3, Material UI, Ant Design, Tailwind CSS, Pure components.
 - **Backend Development** - Django, Django REST Framework (DRF), Firebase (Firestore, Auth, Node Functions), RESTful APIs, PostgreSQL, Serverless Architecture.
-- **Cloud & DevOps** - AWS EC2, Firebase App Hosting, Firebase Cloud Functions Deployment.
+- **Cloud & DevOps** - AWS Deployment, Firebase App Hosting, Firebase Cloud Functions Deployment.
 - **Tools** - Git, GitHub, Postman, Docker, AWS Console, Firebase CLI, n8n Automation, Salesforce, Zapier.
 
 ---
