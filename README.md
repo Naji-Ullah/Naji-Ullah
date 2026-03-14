@@ -84,13 +84,13 @@ Currently working on impactful projects including Canadian government initiative
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat&logo=sendgrid&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=flat&logo=algolia&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=googlechrome&logoColor=white)
 ![Firebase CLI](https://img.shields.io/badge/Firebase_CLI-FFCA28?style=flat&logo=firebase&logoColor=black)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat&logo=twilio&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzUuMzcgMCAwIDUuMzcgMCAxMnM1LjM3IDEyIDEyIDEyIDEyLTUuMzcgMTItMTJTMTguNjMgMCAxMiAwem0tLjUgMTcuNWgtMnYtN2gydjd6bTAtOWgtMlY2LjVoMlY4LjV6Ii8+PC9zdmc+&logoColor=white)
 
 ---
 
