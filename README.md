@@ -9,10 +9,10 @@ Currently working on impactful projects including Canadian government initiative
 
 ## What I Do
 
-- **Frontend Development** - Building interactive, responsive user interfaces with modern JavaScript frameworks
-- **Backend Development** - Designing scalable APIs and serverless architectures
-- **Cloud & DevOps** - Deploying and managing applications on cloud platforms
-- **AI Integrations** - Integrating third-party AI, payment, and automation services
+- **Frontend Development** -JavaScript (ES6+), React.js, Next.js 14, TypeScript, Redux, HTML5, CSS3, Material UI, Ant Design, Tailwind CSS, Pure components.
+- **Backend Development** - Django, Django REST Framework (DRF), Firebase (Firestore, Auth, Node Functions), RESTful APIs, PostgreSQL, Serverless Architecture.
+- **Cloud & DevOps** - AWS EC2, Firebase App Hosting, Firebase Cloud Functions Deployment.
+- **Tools** - Git, GitHub, Postman, Docker, AWS Console, Firebase CLI, n8n Automation, Salesforce, Zapier.
 
 ---
 
