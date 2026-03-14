@@ -27,7 +27,7 @@ JavaScript • React • Next.js • TypeScript • Redux • Tailwind CSS • M
 ### Backend
 <img src="https://skillicons.dev/icons?i=python,django,firebase,postgres,nodejs" />
 
-Python • Django • Firebase • PostgreSQL • Node.js
+Python • Django • Firebase • PostgreSQL • Node Functions
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github" />
