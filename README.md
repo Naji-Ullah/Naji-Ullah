@@ -1,4 +1,4 @@
-# Hi there👋 ! I'm Naji Ullah
+# Hi there! I'm Naji Ullah
 **Full Stack Developer** | React • Next.js • Django • Firebase | Building scalable web applications
 
 I'm an Associate Software Engineer with 1.5+ years of industry experience, passionate about crafting high performance web solutions. I specialize in building responsive frontends and robust backends, with hands-on expertise in AI integrations, real-time applications, and cloud deployments.
