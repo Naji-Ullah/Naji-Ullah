@@ -1,7 +1,7 @@
 # Hi there! I'm Naji Ullah
 **Full Stack Developer** | React • Next.js • Django • Firebase | Building scalable web applications
 
-I'm a Software Engineer with 1.5+ years of industry experience, passionate about crafting high performance web solutions. I specialize in building responsive frontends and robust backends, with hands-on expertise in AI integrations, real-time applications, and cloud deployments.
+I'm a Software Engineer with 1.5+ years of industry experience, passionate about crafting high performance web solutions. I specialize in building responsive frontends and robust backends, with hands on expertise in AI integrations, real time applications, and cloud deployments.
 
 Currently working on impactful projects including Canadian government initiatives and enterprise SaaS platforms.
 
@@ -9,7 +9,7 @@ Currently working on impactful projects including Canadian government initiative
 
 ## What I Do
 
-- **Frontend Development** - JavaScript (ES6+), React.js, Next.js 14, TypeScript, Redux, HTML5, CSS3, Material UI, Ant Design, Tailwind CSS, Pure components.
+- **Frontend Development** - JavaScript, React.js, Next.js, TypeScript, Redux, HTML, CSS, Material UI, Ant Design, Tailwind CSS, Pure components.
 - **Backend Development** - Django, Django REST Framework (DRF), Firebase (Firestore, Auth, Node Functions), RESTful APIs, PostgreSQL, Serverless Architecture.
 - **Cloud & DevOps** - AWS Deployment, Firebase App Hosting, Firebase Cloud Functions Deployment.
 - **Tools** - Git, GitHub, Postman, Docker, AWS Console, Firebase CLI, n8n Automation, Salesforce, Zapier.
