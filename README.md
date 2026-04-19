@@ -101,5 +101,7 @@ Currently working on impactful projects including Canadian government initiative
 💼 **LinkedIn:** [Naji Ullah](https://www.linkedin.com/in/naji-ullah-53222624b/)  
 📱 **Phone:** +923424976549  
 🐙 **GitHub:** [@Naji-Ullah](https://github.com/Naji-Ullah)
+🐙 **Portfolio:** [Naji Ullah](https://naji.codes/) 
+
 
 ---
