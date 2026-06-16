@@ -83,8 +83,6 @@ Currently working on impactful projects including Canadian government initiative
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naji-Ullah&theme=dracula&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naji-Ullah&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
 </div>
 
 ---
