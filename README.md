@@ -1,5 +1,12 @@
-# Hi there! I'm Naji Ullah
-**Full Stack Developer** | React • Next.js • Django • Firebase | Building scalable web applications
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Naji+Ullah;Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+Firebase;Building+scalable+web+applications" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Naji-Ullah&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+---
 
 I'm a Software Engineer with 1.5+ years of industry experience, passionate about crafting high performance web solutions. I specialize in building responsive frontends and robust backends, with hands on expertise in AI integrations, real time applications, and cloud deployments.
 
@@ -30,16 +37,6 @@ Currently working on impactful projects including Canadian government initiative
   <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
 </p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
-
----
-
 ### Backend
 
 <p>
@@ -50,14 +47,6 @@ Currently working on impactful projects including Canadian government initiative
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
-
 ### DevOps & Cloud
 
 <p>
@@ -67,13 +56,6 @@ Currently working on impactful projects including Canadian government initiative
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
 ### Tools & Services
 
 <p>
@@ -81,8 +63,6 @@ Currently working on impactful projects including Canadian government initiative
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </p>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
@@ -95,13 +75,43 @@ Currently working on impactful projects including Canadian government initiative
 
 ---
 
-## Get In Touch
+## GitHub Stats
 
-📧 **Email:** najiu1836@gmail.com  
-💼 **LinkedIn:** [Naji Ullah](https://www.linkedin.com/in/naji-ullah-code/)  
-📱 **Phone:** +923424976549  
-🐙 **GitHub:** [@Naji-Ullah](https://github.com/Naji-Ullah)
-🐙 **Portfolio:** [Naji Ullah](https://naji.codes/) 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naji-Ullah&layout=donut&theme=dracula&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naji-Ullah&theme=dracula&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Naji-Ullah&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
 
 ---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Naji-Ullah/Naji-Ullah/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## Get In Touch
+
+<div align="center">
+
+<a href="mailto:najiu1836@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/naji-ullah-code/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Naji-Ullah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://naji.codes/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+<div align="center">
+
+📧 najiu1836@gmail.com &nbsp;•&nbsp; 📱 +92 342 4976549
+
+</div>
