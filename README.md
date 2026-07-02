@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Software Engineer with 1.5+ years of industry experience, passionate about crafting high performance web solutions. I specialize in building responsive frontends and robust backends, with hands on expertise in AI integrations, real time applications, and cloud deployments.
+I'm a Software Engineer with productiion ready industry experience, passionate about crafting high performance web solutions. I specialize in building responsive frontends and robust backends, with hands on expertise in AI integrations, real time applications, and cloud deployments.
 
 Currently working on impactful projects including Canadian government initiatives and enterprise SaaS platforms.
 
