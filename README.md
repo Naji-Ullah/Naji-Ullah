@@ -15,7 +15,7 @@ That has been the whole game.
 
 ---
 
-I'm a Software Engineer with productiion ready industry experience, passionate about crafting high performance web solutions. I specialize in building responsive frontends and robust backends, with hands on expertise in AI integrations, real time applications, and cloud deployments.
+Software Engineer specializing in architecting and delivering scalable, production-grade applications. Experienced in leading projects from concept to deployment, with expertise spanning full-stack development, AI integrations, real-time systems, and cloud infrastructure.
 
 Currently working on impactful projects including Canadian government initiatives and enterprise SaaS platforms.
 
