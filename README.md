@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="assets/image.jpeg" alt="Naji Ullah childhood photo" width="700" />
+<img src="assets/image.jpeg" alt="Naji Ullah childhood photo" width="420" />
 
 <p align="center"><sub><em>
 The version of me that exists now was built slowly, one decision at a time.<br />
