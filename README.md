@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Naji+Ullah;Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+Firebase;Building+scalable+web+applications" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Naji-Ullah&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
+<img src="assets/image.jpeg" alt="Naji Ullah childhood photo" width="700" />
+
+<p align="center"><sub><em>
+The version of me that exists now was built slowly, one decision at a time.<br />
+Not by waiting for confidence, but by letting action teach me what confidence feels like.<br />
+If I could leave you with one piece of advice, it would be this: guard your mind. The world is full of people trying to tell you what to think. Don't hand them the keys. Stay curious, think for yourself, and hold your ground.
+That has been the whole game.
+</em></sub></p>
 
 </div>
 
@@ -12,20 +18,10 @@ I'm a Software Engineer with productiion ready industry experience, passionate a
 
 Currently working on impactful projects including Canadian government initiatives and enterprise SaaS platforms.
 
----
-
-## What I Do
-
-- **Frontend Development** - JavaScript, React.js, Next.js, TypeScript, Redux, HTML, CSS, Material UI, Ant Design, Tailwind CSS, Pure components.
-- **Backend Development** - Django, Django REST Framework (DRF), Firebase (Firestore, Auth, Node Functions), RESTful APIs, PostgreSQL, Serverless Architecture.
-- **Cloud & DevOps** - AWS Deployment, Firebase App Hosting, Firebase Cloud Functions Deployment.
-- **Tools** - Git, GitHub, Postman, Docker, AWS Console, Firebase CLI, n8n Automation, Salesforce, Zapier.
-
----
 
 ## Tech Stack
 
-### Frontend
+### View
 
 <p>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
@@ -37,7 +33,7 @@ Currently working on impactful projects including Canadian government initiative
   <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
 </p>
 
-### Backend
+### Hidden
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
@@ -58,10 +54,6 @@ Currently working on impactful projects including Canadian government initiative
 
 ### Tools & Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-</p>
 
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white)
@@ -75,27 +67,18 @@ Currently working on impactful projects including Canadian government initiative
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naji-Ullah&layout=donut&theme=dracula&hide_border=true&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naji-Ullah&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Naji-Ullah/Naji-Ullah/output/snake.svg" alt="Snake animation" />
-
-</div>
+| Project | Focus |
+|---|---|
+| [Lamppost.io](https://lamppost.io) | Product-focused web work and a polished public-facing experience. |
+| [PursuitData.com](https://pursuitdata.com) | Data-driven platform work with a clear, conversion-friendly presentation. |
+| BlendGenAI | AI product and brand experience work. |
+| [Fence & Deck Connection](https://www.fenceanddeckconnection.com/) | Fence and deck  quote & opp system fully integrated with salesforce. |
+| Angi Lead (Fence & Deck) | Lead generation and conversion-focused service worker. |
+| Ryan HLOS | Automated Leads for ryan to the user CRM |
 
 ---
+
 
 ## Get In Touch
 
