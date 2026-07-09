@@ -6,7 +6,8 @@
 <p align="center"><sub><em>
 The version of me that exists now was built slowly, one decision at a time.<br />
 Not by waiting for confidence, but by letting action teach me what confidence feels like.<br />
-If I could leave you with one piece of advice, it would be this: guard your mind. The world is full of people trying to tell you what to think. Don't hand them the keys. Stay curious, think for yourself, and hold your ground.
+If I could leave you with one piece of advice, it would be this: guard your mind. The world is full of people trying to tell you what to think.<br />
+ Don't hand them the keys. Stay curious, think for yourself, and hold your ground.
 That has been the whole game.
 </em></sub></p>
 
