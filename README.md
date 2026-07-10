@@ -81,6 +81,15 @@ Currently working on impactful projects including Canadian government initiative
 ---
 
 
+## Contributions
+
+| Project | Contribution |
+|---|---|
+| [BackgroundRemover](https://github.com/nadermx/backgroundremover/pull/191) | Contributed to the 8K-star BackgroundRemover open source tool by improving error handling and exception reporting. Submitted a pull request that added clearer exception types, improved debugging, and enhanced the user experience through code review feedback. |
+
+---
+
+
 ## Get In Touch
 
 <div align="center">
